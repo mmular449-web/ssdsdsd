@@ -2,7 +2,7 @@
 window.SHOWCASE = {
   portfolio: {
     brand: 'independent.', logo: '', name: 'Независимый разработчик',
-    telegram: 'frouzzyyy', email: '',
+    telegram: 'zqvyrx', email: '',
     headline: 'Ваш бизнес.\nВ новом свете.',
     description: 'Сайты, которые приятно открыть. Боты, которыми удобно пользоваться. Делаю небольшие цифровые решения под ваш бизнес.',
     demoBot: 'https://t.me/LepestokDemo26Bot'
